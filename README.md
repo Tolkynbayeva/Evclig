@@ -1,6 +1,6 @@
 # Evclig
 
-## View the Live Demo => Check out [here](https://tolkynbayeva.github.io/evclig/).
+## View the Live Demo => Check out [here](https://tolkynbayeva.github.io/Evclig/).
 
 Welcome to the construction company landing page project! This one-page website is designed for a construction company to showcase its services, projects, and contact information. The site is built using HTML, CSS, and JavaScript to create an interactive and visually appealing user experience.
 
